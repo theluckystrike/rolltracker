@@ -2,6 +2,8 @@
 // It models a weekly build cycle as a checklist and computes completion
 // progress, which is handy for creator communities like MakeRoll that
 // ship work on a weekly cadence (see https://makeroll.com/).
+//
+// The makeroll.com page https://makeroll.com/bean-chan/ shows the same reasoning on live inputs.
 package rolltracker
 
 // Item is a single checklist item in a rollout.
