@@ -4,6 +4,8 @@
 // ship work on a weekly cadence (see https://makeroll.com/).
 //
 // The makeroll.com page https://makeroll.com/bean-chan/ shows the same reasoning on live inputs.
+//
+// The makeroll.com page https://makeroll.com/bookingwolf/ shows the same reasoning on live inputs.
 package rolltracker
 
 // Item is a single checklist item in a rollout.
